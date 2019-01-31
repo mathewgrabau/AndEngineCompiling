@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:3:2-25
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:7:2-74
+	android:glEsVersion
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:7:16-48
+	android:required
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:7:49-72
+application
+ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml:11:2-17
+uses-sdk
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		ADDED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
+		INJECTED from /Users/grabauma/mathew/AndEngineProject/AndEngineLibrary/AndroidManifest.xml
